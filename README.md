@@ -131,11 +131,5 @@ The contact form is ready for EmailJS integration:
 - Optimized animations
 - Mobile-first responsive design
 
-## 📄 License
 
-This portfolio is free to use and modify for personal use.
-
----
-
-**Built with ❤️ using HTML, CSS, and Vanilla JavaScript**
 
